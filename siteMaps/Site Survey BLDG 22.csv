@@ -1,0 +1,28 @@
+Premise Site Survey Form
+
+Site Name:,,,N22,,,Date:,03/25/23
+Purchase Order #,,,,,,By:,Jay Jones
+Address,,,773 N 800 E,,,Contact:
+City State Zip,,,"Nephi, UT"
+
+Line#,Door#,Cyl Quan,Brand,Type,Finish,Hand,Backset,Cam/Tail,Quan Keys,Key ID,Remarks,Ord,Pin,Inst
+,1,1,,DB,26D,,,DB,,Mech,N Gate to air conditioning system
+,2,1,,DB,26D,,,DB,,Mech,S Gate to air conditioning system
+,3,1,Kawneer,Mort,26D,R,,Mort/AR,,Teach,NE classroom to OS
+,4,1,VD,Rim,26D,L,,Rim,,Class,Classroom 101
+,5,1,Schlage,KIL,26D,R,2 3/4,Short,,Teach,Kitchen - teacher's access
+,6,1,Schlage,KIL,26D,L,2 3/4,Short,,BM?,Principal's office
+,7,1,Schlage,KIL,26D,L,2 3/4,Short,,Teach,Secretary office
+,8,1,Schlage,KIL,26D,R,2 3/4,Short,,Teach,Custodial/Mech room
+,9,1,Schlage,KIL,26D,R,2 3/4,Short,,Teach,Storage closet in men's bathroom
+,10,1,Schlage,KIL,26D,L,2 3/4,Short,,Teach,Instructor's office S/W
+,11,1,Schlage,KIL,26D,L,2 3/4,Short,,Teach,Mezzanine access
+,12,1,VD,Rim,26D,L,,Rim,,Class,Classroom 102
+,13,1,VD,Rim,26D,L,,Rim,,Teach,SE Classroom to OS
+,14,1,Schlage,KIL,26D,L,,Short,,Teach,Instructors Office SE
+,15,1,Schlage,KIL,26D,R,,Short,,Class,Classroom 103
+,16,1,Kawneer,Mort,26D,R,,Mort/AR,,Teach,S Entrance to classroom OS
+,17,1,VD,Rim,26D,L,,Rim,,Teach,S OS Entrance Accessible Access
+,18,1,Schlage,KIL,26D,R,,Short,,Teach,Closet West
+,19,1,Schlage,KIL,26D,R,,Short,,Dummy,Instructor's office SW
+,20,1,Kawneer,Mort,26D,R,,Mort/AR,,Class,Main W Entrance

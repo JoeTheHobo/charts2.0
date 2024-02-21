@@ -1,0 +1,37 @@
+Premise Site Survey Form
+
+Site Name:,,,N2  ID# 5057248,,,Date:,03/27/23
+Purchase Order #,,,,,,By:,Jay Jones
+Address,,,65 E 100 N,,,Contact:
+City State Zip,,,"Mona, UT 84645"
+
+Line#,Door#,Cyl Quan,Brand,Type,Finish,Hand,Backset,Cam/Tail,Quan Keys,Key ID,Remarks,Ord,Pin,Inst
+,1,1,VD,Rim,26D,L,,RIM,,GU,MAIN N/W ENTRANCE
+,2,1,Jackson,Rim,26D,L,,RIM,,GU,Chaple Rostrum OS entrance
+,3,1,VD,Rim,26D,L,,RIM,,GU,South Entrance
+,4,1,Yale,KIK,26D,R,2 3/4,"1.5"" Long",,MC,Library
+,5,1,Yale,KIK,26D,R,2 3/4,"1.5"" Long",,MC,Library Eat Door
+,6,1,,Mort,26D,L,, Mort,,GU,S.E. Entrance
+,7,1,Falcon,KIK,Copper,R,2 3/4,Medium,,Mech,Replace knob with 26D Lever,*
+,8,1,Kawneer,Rim,26D,R,,Rim,,GU,N.E. Entrance
+,9,1,Marks,KIL,26D,L,2 3/4,Short,,B1,Mona 1st Ward Bishops Office
+,10,1,Schlage,KIL,26D,L,2 3/4,Short,,C1,Mona 1st Ward Clerks Office
+,11,1,Marks,KIL,26D,L,2 3/4,Short,,C2,Mona 2nd Ward Clerks Office
+,12,1,Yale,KIL,26D,R,2 3/4,"1.5""Long",,B2,Mona 2nd Ward Bishops Office
+,13,1,Falcon,KIK,Copper,R,2 3/4,Short,,GU,Members Closet        Replace KIK w/26D Lever,*
+,14,1,Parker,KIK,26D,R,2 3/4,Medium,,Mech,Members Clst mens bath Replace KIK w Lever,*
+,15,1,Gate Lock,Mort,26D,R,,AR,,Mech,Gate in members closet
+,16,1,Schlage,DB,26D,R,2 3/4,DB,,GU,Stage Platform
+,17,1,VD,Mort,26D,R,,AR,,GU,SE Cultural Hall Entrance
+,18,1,Falcon,KIK,26D,R,2 3/4,KIK,,Mech,Mech Room   New Lever,*
+,19,1,Falcon,DB,Copper,R,2 3/4,DB,,A1,Mona 2nd Ward Primary Closet A!
+,20,1,Falcon,DB,Copper,R,2 3/4,DB,,A2,Mona 2nd Ward Primary Closet A2
+,21,1,Falcon,DB,Copper,R,2 3/4,DB,,A3,Mona 2nd Ward Primary Closet A3
+,22,1,Falcon,KIK,Copper,L,2 3/4,Medium,,GU,Primary to Kitchen          New Lever,*
+,23,1,Falcon,KIK,Copper,L,2 3/4,Medium,,GU,Kitchen to OS         New Lever
+,24,1,Falcon,KIK,Copper,R,2 3/4,Medium,,GU,Kitchen to Hall         New Lever
+,25,1,Falcon,KIK,Copper,R,2 3/4,Medium,,GU,Kitchen to C.H.         New Lever
+,26,1,VD,Mort,26D,R,,,,GU,Gym to N Exit
+,27,1,Parker,KIK,26D,L,2 3/4,Medium,,GU,OS Shed table and chairs
+,28,1,ASSA,RIM,26D,,,RIM,,SNO,OS Shed Snow Blower GArage Door
+,29,1,Padlock,Assa,,,"2""Schackle",,,Mech,Air Conditioner fenced area

@@ -1,0 +1,33 @@
+Premise Site Survey Form
+
+Site Name:,,,N4,,,Date:,03/23/23
+Purchase Order #,,,,,,By:,Jay Jones
+Address,,,65 W 800 S,,,Contact:
+City State Zip,,,"Mona, UT"
+
+Line#,Door#,Cyl Quan,Brand,Type,Finish,Hand,Backset,Cam/Tail,Quan Keys,Key ID,Remarks,Ord,Pin,Inst
+,1,1,VD,Rim,26D,R,,Rim,,GU,OS South
+,2,1,Schlage,KIL,26D,R,2 3/4,Med,,Mech,OS to mezzanine
+,3,1,Schlage,KIL,26D,L,2 3/4,Med,,Mech,Classroom to mezzanine
+,4,1,Schlage,KIL,26D,,2 3/4,Med,,Mech,Air control
+,5,1,Schlage,KIL,26D,L,2 3/4,Med,,MC,Materials center
+,6,1,Schlage,KIL,26D,R,2 3/4,Med,,MC,Materials center
+,7,1,Schlage,KIL,26D,R,2 3/4,Med,,R1,RS quilting closet Mona 3rd in gym
+,8,1,Schlage,KIL,26D,L,2 3/4,Med,,Sport,Sports closet in Gym
+,9,1,VD,Rim,26D,R,,Rim,,GU,OS West Entrance
+,10,1,Schlage,KIL,26D,R,,Med,,C2,Mona 4th Clerk
+,11,1,Schlage,KIL,26D,L,,Med,,B2,Mona 4th Bishop
+,12,1,Schlage,KIL,26D,R,,Med,,B1,Mona 3rd Bishop
+,13,1,Schlage,KIL,26D,L,,Med,,C1,Mona 3rd Clerk
+,14,1,Schlage,KIL,26D,R,,Med,,C3,Mona 1st Clerk
+,15,1,Schlage,KIL,26D,L,,Med,,B3,Mona 1st Bishop
+,16,1,VD,Rim,26D,L,,Rim,,GU,OS East Entrance
+,17,1,Schlage,KIL,26D,R,,Med,,GU,S101 closet
+,18,1,Schlage,KIL,26D,R,,Med,,GU,YW to kitchen
+,19,2,Schlage,KIL/DB,26D,L,,Med,,,OS shed left door
+,20,2,Schlage,KIL/DB,26D,L,,Med,,,OS shed middle door
+,21,2,Schlage,KIL/DB,26D,L,,Med,,,OS shed right door Mona 3rd
+,22,2,Schlage,KIL/DB,26D,R,,Med,,SNO,Snowblower
+,23,1,,Padlock,,,,"2"" Shackle",,,Padlock trash
+,24,1,Schlage,KIL,,R,,Med,,Mech,Fire riser
+,25,1,Schlage,KIL,,R,,Med,,Mech,Power breaker

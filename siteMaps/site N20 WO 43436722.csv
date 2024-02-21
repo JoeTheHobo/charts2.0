@@ -1,0 +1,56 @@
+Premise Site Survey Form
+
+Site Name:,,,N20,,,Date:,09/23/23,,,,Install new locks on building
+Purchase Order #,,,43436722,,,By:,Jay and Angel
+Address,,,131 E 100 N,,,Contact:,Jay Jones,,,,Key box code 3900
+City State Zip,,,Fairview UT
+
+Line#,Door#,Cyl Quan,Brand,Type,Finish,Hand,Backset,Cam/Tail,Quan Keys,Key ID,Remarks,Ord,Pin,Inst
+,1,1,VD,RIM,10B,R,,RIM,,GU,South main entrance
+,2,1,Sargent,KIK,10B,R,2 3/4,L,,MECH,Closet S003 (Air handler closet)
+,3,1,Sargent,KIK,10B,L,2 3/4,L,,RS1, FV 2nd ward S002
+,4,1,Sargent,KIK,10B,R,2 3/4,L,,MECH,Door M001 Dowstairs mech room
+,5,1,Schlage,KIK,10B,L,2 3/4,L,,MECH,Right closet
+,6,1,Schlage,KIK,10B,R,2 3/4,L,,MECH,Left door closet (Air handler)
+,7,1,Sargent,KIK,10B,L,2 3/4,L,,RS1/RS2,Closet D6 in RS room
+,8,1,Sargent,KIK,10B,L,2 3/4,L,,RS2,S001 FV 3rd ward
+,9,1,VD,RIM,10B,R,2 3/4,RIM,,GU,West entrance
+,10,1,Sargent,KIK,10B,L,2 3/4,L,,GU,S005 Lower custody closet
+,11,1,Sargent,KIK,10B,L,2 3/4,L,,Mech,Closet in S008
+,12,1,Sargent,KIK,10B,R,2 3/4,L,,MC,Library
+,13,1,Sargent,KIK,10B,R,2 3/4,L,,AUX1/AUX2,Closet C in primary room
+,14,1,Sargent,KIK,10B,R,2 3/4,L,,GU,Closet B in primary room
+,15,1,Sargent,KIK,10B,L,2 3/4,L,,GU,Closet A in primary room
+,16,1,Sargent,KIK,10B,R,2 3/4,L,,MECH,Mechanical closet in room 16
+,17,1,Sargent,KIK,10B,R,2 3/4,L,,AUX2,Closet in room 17  Replace lock with 10D lever and key to 3rd ward
+,18,1,Sargent,KIK,10B,L,2 3/4,L,,AUX1/AUX2,S006 FV 2nd ward yw
+,19,1,Sargent,KIL,26D,L,2 3/4,M,,GU,Lower elevator
+,20,1,VD,RIM,10B,L,2 3/4,RIM,,GU,North main entrance
+,21,1,Sargent,KIL,26D,L,2 3/4,M,,GU,Upstairs elevator entry
+,22,1,Sargent,KIK,10B,L,2 3/4,L,,B2,FV 3rd ward bishop
+,23,1,Sargent,KIK,10B,R,2 3/4,L,,GU,Across hall from FV 3rd bishop
+,24,1,Sargent,KIL,26D,R,2 3/4,M,,GU,Closet in room across from FV 3rd ward bishop
+,25,1,Sargent,KIK,10B,R,2 3/4,L,,C2,FV 3rd ward clerk
+,26,1,Sargent,KIK,10B,R,2 3/4,L,,B1,FV 2nd ward bishop
+,27,1,Sargent,KIK,10B,R,2 3/4,L,,GU,Custodial closet upstairs
+,28,1,Sargent,KIK,10B,R,2 3/4,L,,C1,FV 2nd ward clerk
+,29,1,Sargent,KIK,10B,R,2 3/4,L,,MECH,M101
+,30,1,Sargent,KIK,10B,R,2 3/4,L,,GU,Closet in sacrament prep room (AV equepment)
+,31,1,Sargent,KIK,10B,L,2 3/4,L,,MECH,Mech on top of chapel stage
+,32,1,Sargent,KIK,10B,L,2 3/4,L,,FHC,Chapel stage to family history Door 101
+,33,1,Sargent,KIK,10B,R,2 3/4,L,,FHC,Outside to family history
+,34,1,Sargent,KIK,10B,L,2 3/4,L,,FHC,Mechanical to family history
+,35,1,Sargent,KIK,10B,R,2 3/4,L,,GU,Chapel to outside
+,36,1,Sargent,KIL,26D,L,,M,,GU,Kitchen
+,37,1,Sargent,KIK,10B,R,2 3/4,L,,MECH,Closet M102 (Attic access)
+,38,1,Sargent,KIK,10B,L,2 3/4,L,,GU,Left Stage Entrance
+,39,1,Sargent,KIK,10B,L,2 3/4,L,,GU,Room C3 Left stage closet
+,40,2,Sargent,KIK,10B,L,2 3/4,L,,MECH,Stage to outside
+,41,1,Padlock,Padlock,10B,,,Padlock,,MECH,Stage outside guarding
+,42,1,Marks,KIL,,R,,M,,AUX1/AUX2,Snow/scout closet
+,43
+,44
+,45
+,46,,PASSAGE 25
+,47,,ENTRY 35
+,48

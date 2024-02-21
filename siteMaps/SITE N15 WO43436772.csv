@@ -1,0 +1,62 @@
+Premise Site Survey Form WARDS MUST UNLOCK ALL CLOSETS
+
+Site Name:,,,N15,,,Date:,11/14/23,,,,Install new locks on building
+Purchase Order #,,,43436772,,,By:,Jay and Arin
+Address,,,49 S. State St.,,,Contact:,Jay Jones,,,,Key box code 7280
+City State Zip,,,Mt Pleasant UT,,,,,,,,Keyway  C145
+
+Line#,Door#,Cyl Quan,Brand,Type,Finish,Hand,Backset,Cam/Tail,Quan Keys,Key ID,Remarks,Ord,Pin,Inst
+,1,,Von Duprin,Rim,26D,,,Rim,,GU,S Main Entrance to building
+,2,1,Schlage,KIL,Copper,,2 3/4,M,,Mech,OS Door to Room 105
+,3,1,Padlock,,,R,,,,Mech,Air conditioning units
+,4,1,Schlage,KIL,Copper,L,2 3/4,M,,Mech,OS Door to Primary Room,,,,
+,5,1,Schlage,KIL,Copper,R,2 3/4,M,,B1,Bishop Office Mount Pleasant 5th Ward
+,6,1,Schlage,KIL,Copper,L,2 3/4,M,,B1,Clerk's office to Bishop's office 5th Ward
+,7,1,Schlage,KIL,Copper,L,2 3/4,M,,C1,Clerk Office Mount Pleasant 5th Ward
+,8,1,Schlage,KIL,Copper,R,2 3/4,M,,C1,S101 5th Ward Closet
+,9,1,Schlage,KIL,Copper,L,2 3/4,M,,C2,S102 4th Ward Closet
+,10,1,Schlage,KIL,Copper,L,2 3/4,M,,Aux 2,4th Ward Storage
+,11,1,Schlage,KIL,Copper,R,2 3/4,M,,Mech,Mech Closet in Room 105
+,12,1,Schlage,KIL,Copper,L,2 3/4,M,,Aux 2,Closet S103
+,13,1,Schlage,KIL,Copper,L,2 3/4,M,,AV,AV Storage Room - Old Clerk's Office
+,14,1,Schlage,KIL,Copper,L,2 3/4,M,,GU,AV Closet to 4th Aaronic Priesthood room
+,15,1,Schlage,KIL,Copper,L,2 3/4,M,,GU,Aaronic Priesthood room
+,16,1,Schlage,KIL,Copper,R,2 3/4,M,,C2,Clerk's Office 4th Ward
+,17,1,Schlage,KIL,Copper,R,2 3/4,M,,B2,Bishop Office 4th Ward
+,18,1,Schlage,KIL,Copper,R,2 3/4,M,,B2,Clerk's Office to Bishop's Office 4th Ward
+,19,1,Marks,KIL,26D,L,2 3/4,Wide Tailpice,,Mech,Elevator Shaft
+,20,1,Schlage,KIL,Copper,R,2 3/8,M,,Mech,Mech Closet C in Mother's Room
+,21,1,Schlage,KIL,Copper,R,2 3/8,M,,Mech,Closet D in Room 108 - Access to Crawl Space
+,22,1,Schlage,KIL,Copper,R,2 3/4,M,,GU,Member's Cleaning Closet
+,23,1,Padlock,,,,,,,Mech,Padlock in Room S105
+,24,1,Von Duprin,Rim,26D,L,,Rim,,GU,South Hall to Chapel
+,25,1,Dooramatic,Rim,26D,R,,Rim,,GU,East Main Entrance
+New Lever,26,1,,KIL,26D,L,,,,Mech/AV,OS Next to East Main Ent - Bsmt Access Electronic
+New Deadbolt,27,1,New Deadbolt,,Copper,,,,,GU,SW Chapel Entrance
+,28,1,Von Duprin,Rim,26D,R,,Rim,,GU,West Main Entrance
+New Deadbolt,29,1,New Deadbolt,,Copper,,,,,GU,NW Chapel Entrance
+,30,1,Schlage,KIL,Copper,L,2 3/8,M,,Aux1,Closet E in Room 109
+,31,1,Schlage,KIL,Copper,R,2 3/4,M,,GU,Closet F above stage
+,32,1,Schlage,KIL,Copper,R,2 3/8,M,,A1/A2,Closet A in Room 210
+,33,1,Schlage,KIL,Copper,R,2 3/8,M,,A1,Closet B in Room 211
+,34,1,Schlage,KIL,Copper,L,2 3/8,M,,A1,Closet A in Room 211
+,35,1,Schlage,KIL,Copper,L,2 3/8,M,,GU,Closet A in RS Room -Crawl Space Access
+,36,1,Dooramatic,Rim,26D,L,,,,GU,OS to RS Room
+,37,1,Schlage,KIL,Copper,L,2 3/4,M,,GU,OS to Kitchen
+,38,1,Schlage,KIL,Copper,R,2 3/4,M,,GU,Hall to Kitchen
+,39,1,Schlage,KIL,Copper,R,2 3/4,M,,Mech,Closet M102 by Kitchen
+,40,1,Von Duprin,Rim,26D,R,,Rim,,GU,EN OS Entrance
+,41,1,Schlage,KIL,Copper,L,2 3/4,L,,RS2,RS Closet in closet room - 4th Ward
+,42,1,Schlage,KIL,Copper,R,2 3/4,L,,RS2,RS Closet in closet room - 4th Ward
+,43,1,Schlage,KIL,Copper,L,2 3/4,L,,RS2,RS Closet in closet room - 4th Ward
+,44,1,Schlage,KIL,Copper,R,2 3/4,L,,RS1,RS Closet in closet room - 5th Ward
+,45,1,Schlage,KIL,Copper,L,2 3/4,L,,RS1,RS Closet in closet room - 5th Ward
+,46,1,Schlage,KIL,Copper,R,2 3/4,L,,RS1,RS Closet in closet room - 5th Ward
+,47,2,WON Door,,26D,,,Mortise,,GU,WON Door between chapel and cultural hall
+,48,1,Schlage,KIL,Copper,L,2 3/4,M,,GU,Main door to ym/yw storage closets
+,49,1,Marks,KIL,26D,L,2 3/4,Wide Tailpice,,Mech,Elevator Shaft from upstairs
+,50,1,Schlage,KIL,Copper,L,2 3/4,M,,Mech,Air handler in room 103
+,51,1,Schlage,KIL,Copper,L,2 3/4,M,,MC,Library room from room 103
+,52,1,Schlage,KIL,Copper,L,2 3/4,M,,MC,Library room from hall
+,53,1,Arrow,KIK,26D,L,2 3/4,L,,GU,Closet Door Next to Snow
+,54,1,Arrow,KIk,26D,R,2 3/4,Rim,,SNOW,Snow Shed

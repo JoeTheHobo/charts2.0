@@ -1,0 +1,38 @@
+Premise Site Survey Form
+
+Site Name:,,,N61 5737656,,,Date:,08/21/23
+Purchase Order #,,,43430924,,,By:,Jay and Angel
+Address,,,952 W 1580 S.,,,Contact:,Jay Jones
+City State Zip,,,Payson Ut. 84651
+
+Line#,Door#,Cyl Quan,Brand,Type,Finish,Hand,Backset,Cam/Tail,Quan Keys,Key ID,Remarks,Ord,Pin,Inst
+,1,1,Sch,Rim,26D,R,,Dummy,,Dummy,"East main entrance, existing dummy"
+,2,1,Sch,Lever,26D,R,,Med,,C1,Brook side ward clerk
+,3,1,Sch,Lever,26D,L,,Med,,B1,Brook side ward bishop
+,4,1,Sch,Rim,26D,R,,Dummy,,Dummy,South East entrance
+,5,1,Sch,Mort,26D,,,AR,,GU,Won door from chapel
+,6,1,Sch,Lever,26D,R,,Med,,Sport,Sport closet
+,7,1,Sch,Lever,26D,L,,Med,,,Second ward relief society
+,8,1,Sch,Lever,26D,R,,Med,,MC,Library
+,9,1,Sch,Lever,26D,L,,Med,,MC,Library
+,10,1,sch,Lever,26D,R,,Med,,AV,Classroom to mezzanine
+,11,1,sch,Lever,26D,R,,Med,,AV,Outide to mezzanine
+,12,1,Sch,Lever,26D,R,,Med,,Aux 2,TR Storage closset?
+,13,1,Sch,Rim,26D,R,,Dummy,,Dummy,"Outside north entrance, existing dummy"
+,14,1,Sch,Lever,26D,R,,Med,,GU,Kitchen to multi-purpose room
+,15,1,Sch,Lever,26D,R,,Med,,GU,Kitchen to hall
+,16,1,Sch,Lever,26D,R,,Med,,GU,S 101 closet
+,17,1,Sch,Lever,26D,,,,,,Existing passage lever
+,18,1,Rim,Lever,26D,L,,Dummy,,Dummy,West main entrance
+,19,1,sch,Lever,26d,L,,Med,,B2,Temple rim ward bishop
+,20,1,sch,Lever,26D,R,,Med,,C2,Temple rim clerk office
+,21,1,Sch,lever,26D,L,,Med,,C3,Empty clerk office
+,22,1,Sch,lever,26D,R,,Med,,B3,Empty bishop
+,23,1,Sch,Rim,26D,R,,Dummy,,Dummy,Outside south west dummy
+,24,1,Sch,lever,26D,R,,Med,,Mech,Fire riser
+,25,1,sch,lever,26D,R,,Med,,Mech,Eletrical
+,26,1,Sch,lever,26D,R,,Med,,Snow,Snow closet
+,27,2,sch,Lever/DB,26D,R,,Med/db,,Aux 2,YMYW outside closet
+,28,2,sch,Lever/DB,26D,L,,Med/DB,,Aux 3,Unused ward
+,29,2,sch,Lever/DB,26D,L,,Med/DB,,Aux 1,Brook side ward 29
+,30

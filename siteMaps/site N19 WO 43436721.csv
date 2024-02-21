@@ -1,0 +1,53 @@
+Premise Site Survey Form
+
+Site Name:,,,N19,,,Date:,09/23/23,,,,Install new locks on building
+Purchase Order #,,,43436721,,,By:,Jay and Angel
+Address,,,122 S. State St,,,Contact:,Jay Jones
+City State Zip,,,Fairview UT
+
+Line#,Door#,Cyl Quan,Brand,Type,Finish,Hand,Backset,Cam/Tail,Quan Keys,Key ID,Remarks,Ord,Pin,Inst
+,1,1,Corbin,KIK,10B,R,2 and 3Q,L,,GU,Table and chairs
+,2,1,Corbin,Padlock,10B,Overhead,,Padlock,,SNOW,Overhead Closet
+,3,1,Corbin,Padlock,10B,L,,Padlock,,MECH,Gate to river behind snow blower
+,4,1,VD,Rim,26D,R,,RIM,,GU,South main entrance
+,5,1,Corbin,KIK,10B,R,2 and 3Q,L,,MECH,Mechanical room in custody closet upstairs
+,6,1,Corbin,Padlock,,Slide,,Padlock,,MECH/SMC,Internet access
+,7,1,Corbin,KIK,10B,L,2 and 3Q,L,,RS1,FV 1st ward RS
+,8,1,Corbin,KIK,10B,L,2 and 3Q,L,,Aux2,FV 4th ward yw
+,9,1,Corbin,KIK,10B,L,2 and 3Q,L,,RS2,FV 4th ward RS
+,10,1,Corbin,KIK,10B,R,2 and 3Q,L,,AUX1,FV 1 YW (Has attic access)
+,11,1,Corbin,KIK,10B,L,2 and 3Q,L,,GU,East chapel overflow entrance
+,12,1,Corbin,KIK,10B,R,2 and 3Q,L,,GU,West overflow entrance
+,13,1,VD,Rim,26D,R,,Rim,,GU,East outside entrance
+,14,1,Corbin,KIK,10B,R,2 and 3Q,L,,AV,East closet on stage
+,15,1,Corbin,KIK,10B,L,2 and 3Q,L,,GU,Sacrament prep on stage
+,16,1,VD,Rim,26D,L,,Rim,,GU,South upper entrance
+,17,1,Corbin,KIK,10B,R,2 and 3Q,L,,B2,FV 4th ward bishop office
+,18,1,Corbin,KIK,10B,L,2 and 3Q,L,,C1/C2,FV 1 and FV 4 Clerk office
+,19,1,Corbin,KIK,10B,L,2 and 3Q,L,,B1,FV1 Bishop office
+,20,1,DB,DB,26D,R,,DB,,GU,Kitchen to culteral hall
+,21,1,DB,DB,26D,R,,DB,,GU,Closet C4 in culteral hall Tables and chairs
+,22,1,Corbin,KIK,10B,R,2 and 3Q,L,,GU,Kitchen to culteral hall
+,23,1,DB,DB,26D,R,,DB,,MECH,Closet C3
+,24,1,Corbin,KIK,10B,L,2 and 3Q,L,,MC,Library
+,25,1,Corbin,KIK,10B,R,2 and 3Q,L,,MC,Library
+,26,1,Corbin,KIK,10B,L,2 and 3Q,L,,FHC,Family history Room
+,27,1,Corbin,KIK,10B,L,2 and 3Q,L,,MECH,Downstairs to boiler room doortag C5
+,28,1,Marks,KIL,26D,L,2 and 3Q,M,,MECH,Inner door
+,29,1,Corbin,KIK,10B,L,2 and 3Q,L,,MECH,broiler room to north keybox
+,30,1,Corbin,KIK,10B,R,2 and 3Q,L,,AUX1,Door in classroom 12
+,31,1,Corbin,KIL,10B,L,,M,,MECH,Mens restroom to crawl space
+,32,1,Corbin,KIK,10B,R,2 and 3Q,L,,AUX1,Right hand closet in room 4
+,33,1,Corbin,KIK,10B,R,2 and 3Q,L,,AUX2,Right hand in room 4 middle closet
+,34,1,Corbin,KIK,10B,L,2 and 3Q,L,,MECH,Left hand in room 4 Air handler
+,35,1,Corbin,KIK,10B,L,2 and 3Q,L,,MECH,Mechanical closet in room 2
+,36,1,Corbin,KIK,10B,L,2 and 3Q,L,,AUX1,FV 1st ward RS
+,37,1,Corbin,KIK,10B,L,2 and 3Q,L,,AUX1,Closet D1
+,38,1,Corbin,KIK,10B,L,2 and 3Q,L,,AUX2,Closet D2
+,39,1,Corbin,KIK,10B,L,2 and 3Q,L,,AUX2,Closet D3
+,40,1,padlock,pl,,,2 3/4,L,,mech,Padlock by river
+,41,1,Corbin,KIK,10B,,2 and 3Q,L
+,42
+,43,,,,,,,,,,18 entry coper finish
+,44,,,,,,,,,,2 passage coper finish
+,45,,,,,,,,,,3 deadbolts 26d finish

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>LDS Chart Maker</title>
+    
+    <link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body onload="onLoad()">
+    <div class="screens">
+        <div class="screen1">
+            <center id='keySelector'>
+                <div id="title">Pinning Chart Generator</div>
+                <img id="imgLogo" src="img/paysonLock.png">
+        
+                <div id="centered">
+                    <div id="chooseType">
+                        <div id="buildingNum" class="options">Building #</div>
+                        <div id='address2' class="options">Address</div>
+                        <div id="background"></div>
+                    </div>
+                    <div id='warningText'></div>
+                    <div id="ifBuilding">
+                        <div id="searchBuild">
+                            <div id="n">N</div>
+                            <input type="number" id="Binput" placeholder="30..">
+                        </div>
+                        <div id='searchButton' onclick="searchBuilding()">Search</div>
+                    </div>
+                    <div id='ifAddress'>
+                        <div id="topSearch">
+                            <input id='streetInput' placeholder='Street'>
+                            <div id='searchButton' onclick="searchBuildingAdd()">Search</div></div>
+                        <input list="Citys" id='cityInput' placeholder='City'>
+                        <datalist id="Citys">
+        
+                        </datalist>
+                    </div>
+                </div>
+            </center>
+        </div>
+        <div class="screen2">
+            <img src="img/back.png" id="goBack">
+            <img src="img/goKey.png" id="goKey">
+            <img src="img/bars.png" id="goBars">
+            <div class="topBar">
+                <div id="buildingNumber"></div>
+                <div class="row2">
+                    <div id="address"></div>
+                </div>
+            </div>
+            <center>
+            <div class="table">
+                <div id="tableOver">Pinning Chart</div>
+                <div id="chartHolder">
+                    <div id="tableTop">
+                        <div id="chartName">GU/Mech</div>
+                        <div id="buildingName">N11.I</div>
+                    </div>
+                    <table id="chart">
+
+                    </table>
+                    <img id='share' src="img/share.png" alt="">
+                    <img id='deselect' src="img/deselect2.png" alt="">
+                </div>
+            </div>
+            </center>
+            <div id="keySelection"><span>Key Selection</span></div>
+            <div id="allBoxes"></div>
+        </div>
+        <div class="screen3">
+            <img src="img/back.png" id="goBack">
+            <div id="s3Title">Key Cuts</div>
+            
+            <div class="topBar2">
+                <div id="buildingNumber2"></div>
+                <div class="row2">
+                    <div id="address3"></div>
+                </div>
+            </div>
+
+            <div id="s3Top">
+                <div id="s3Key">GU</div>
+                <div id="s3Cuts">0 3 4 8 3 1</div>
+            </div>
+            <canvas id="s3Canvas">
+
+            </canvas>
+            <div id="keySelection" class="keyCat"><span>Key Categories</span></div>
+            <div id="s3Catagories"></div>
+        </div>
+        <div class="screen4">
+            <img src="img/back.png" id="goBack" class="goBack2">
+            <div id="s3Title">Site Map</div>
+            
+            <div class="topBar2">
+                <div id="buildingNumber2"></div>
+                <div class="row2">
+                    <div id="address3"></div>
+                </div>
+            </div>
+
+            <div id="doorSelectionTitle">Door Selection</div>
+            <div id="doorsHolder"></div>
+        </div>
+    </div>
+    <div id="cfaPopUp">Couldn't Find Address...</div>
+    <div id="result">
+
+    </div>
+    <img id="keyImg" src="img/key.png">
+    <div id="shareBackground"></div>
+
+    <script src='libraries/library_simple_v14.js'></script>
+    <!--Instert All Plugins Below This Line-->
+    <!--Example: <script src='plugins/plugin_ccm_v2.js'></script>   -->
+
+    <!--And Above This Line-->
+    <!--Instert All Mods Below This Line-->
+    <!--Example: <script src='mods/mod_ccm_v2.js'></script>   -->
+
+    <!--And Above This Line-->
+    <script src="siteMaps.js"></script>
+    <script src="decode.js"></script>
+    <script src="sheets.js"></script>
+    <script src="core.js"></script>
+    <script src='main.js'></script>
+
+    
+</body>
+</html>

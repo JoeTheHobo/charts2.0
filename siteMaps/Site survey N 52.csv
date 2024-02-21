@@ -1,0 +1,38 @@
+Premise Site Survey Form
+
+Site Name:,,,Nephi BLD 52,,,Date:,08/16/23
+Purchase Order #,,,,,,By:,Jay and Angel
+Address,,,548 S 400 E,,,Contact:,Jay Jones
+City State Zip,,,"Santaquin, UT"
+
+Line#,Door#,Cyl Quan,Brand,Type,Finish,Hand,Backset,Cam/Tail,Quan Keys,Key ID,Remarks,Ord,Pin,Inst
+,1,2,Sch,Lever,26D,L,"2 3/4""",medium,,AUX 4,North door Santaquin canyon ward
+,2,2,Sch,Lever,26D,L,"2 3/4""",Medium,,AUX 3,North middle pole canyon ward
+,3,2,Sch,Lever,26D,L,"2 3/4""",Medium,,AUX 2,South middle Orchard hills ward
+,4,2,Sch,Lever,26D,L,"2 3/4""",Medium,,AUX 1,South door sunnit creek ward
+,5,1,Sargent,Rim,26D,L,"2 3/4""",Rim,,GU,North outside entrance
+,6,1,Sch,Lever,26D,R,"2 3/4""",Medium,,C3,Pole Canyon Clerk
+,7,1,Sch,Lever,26D,R,"2 3/4""",Medium,,B3,Pole Canyon Bishop
+,8,1,Sch,Lever,26D,L,"2 3/4""",Medium,,SC,Stake suite from hall
+,9,1,Sch,Lever,26D,L,"2 3/4""",Medium,,SC,Stake clerk office
+,10,1,sch,Lever,26D,L,"2 3/4""",Medium,,SPM,Stake president master
+,11,1,sch,Lever,26D,L,"2 3/4""",medium,,SC,Stake suite to high council
+,12,1,Sch,Lever,26D,L,"2 3/4""",medium,,HC,Hall to high council
+,13,1,Sch,Lever,26D,R,"2 3/4""",medium,,Clerks,Sports equipment all clerks fit
+,14,1,Sch,Lever,26D,R,"2 3/4""",Medium,,GU,"Tables, chairs closet"
+,15,1,Sch,Lever,26D,L,"2 3/4""",medium,,AV,Stage to messanine
+,16,1,Sch,DB,26D,L,"2 3/4""",medium,,Font,Mens room to font
+,17,1,Sch,DB,26D,L,"2 3/4""",medium,,Font,Font to mens changing room
+,18,1,Sch,DB,26D,R,"2 3/4""",medium,,Font,Font to womans changing room
+,19,1,sch,DB,26d,R,"2 3/4""",medium,,Font,Womans room to font
+,20,1,sch,DB,26D,R,"2 3/4""",medium,,Font,Font viewing
+,21,1,Sch,lever,26D,R,"2 3/4""",medium,,B4,Santaquin canyon ward bishop
+,22,1,Sch,lever,26D,L,"2 3/4""",Medium,,C4,Santaquin canyon ward clerk office
+,23,2,Sch,lever,26D,L,"2 3/4""",medium,,MC,Library
+,24,1,Sch,lever,26D,R,"2 3/4""",medium,,B2,Orchard Hills ward bishop
+,25,1,sch,lever,26D,R,"2 3/4""",medium,,C2,Orchard Hills clerk office
+,26,1,Sch,lever,26D,L,"2 3/4""",medium,,B1,Sunnit creek ward bishop
+,27,1,sch,lever,26D,L,"2 3/4""",medium,,C1,Sunnit Creek ward clerk
+,28,1,sch,lever,26D,R,"2 3/4""",medium,,AV,Sound closet from classroom
+,29,1,sch,lever,26D,L,"2 3/4""",medium,,AV,Chapel to sound closet
+,30,1,sch,lever,26D,L,"2 3/4""",medium,,MECH,Outise fire riser
